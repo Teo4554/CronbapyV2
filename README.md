@@ -38,7 +38,7 @@
 
 1. **Clona el repositorio / Clone the repo:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/Teo4554/CronbapyV2.git
    cd CronbapyV2
    ```
 
