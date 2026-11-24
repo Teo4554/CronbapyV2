@@ -44,7 +44,12 @@
 
 2. **Dale play / Run it:**
    ```bash
-   python cronbapy.py
+   python3 Cronbapy.py
+   ```
+
+3. **Ejemplo sin escribir / Non-interactive example:**
+   ```bash
+   python3 Cronbapy.py < ejemplo.txt
    ```
 
 ---

@@ -1,0 +1,2 @@
+# Sin dependencias externas: el script usa solo la biblioteca estándar de Python 3.
+# No third-party dependencies: Python 3 standard library only.
